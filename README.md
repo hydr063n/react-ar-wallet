@@ -5,11 +5,11 @@ A simple and reusable Arweave Wallet component for React
 ![screenshot](docs/screenshot.png)
 
 
+<img alt="openbits" src="https://lh3.googleusercontent.com/WlvrVlYFZOZyldoMXt5AUgbpJX-goOW-cReBV3DguDZds6If71LGvTrQFisRn2M1dAQfY-2YunY0cqKlzARar4gN4w5NgTn5Jr-cTd48QziPm5uLDJwx939t9EA4JASZuhj_14YD" width="42"> This package is also served through openbits https://openbits.world
+
 ## Installation
 
 The package can be installed via [openbits](https://openbits.world)
-<br/>
-<img alt="openbits" src="https://lh3.googleusercontent.com/WlvrVlYFZOZyldoMXt5AUgbpJX-goOW-cReBV3DguDZds6If71LGvTrQFisRn2M1dAQfY-2YunY0cqKlzARar4gN4w5NgTn5Jr-cTd48QziPm5uLDJwx939t9EA4JASZuhj_14YD" width="42"> This package is also served through openbits https://openbits.world
 
 ```
 openbits install react-ar-wallet
