@@ -2,6 +2,7 @@
 
 A simple and reusable Arweave Wallet component for React
 
+![screenshot](docs/screenshot.png)
 
 ## Installation
 
@@ -38,3 +39,5 @@ The most basic use of the DatePicker can be described with:
 ```js
 <ArWallet wallet={wallet} />
 ```
+
+
