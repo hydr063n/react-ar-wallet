@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-import DatePicker from "react-datepicker";
-
-import "react-datepicker/dist/react-datepicker.css";
+import ArWallet from "react-ar-wallet";
 
 class App extends Component {
   state = {
@@ -9,15 +7,8 @@ class App extends Component {
   };
 
   render() {
-    const { startDate } = this.state;
-    return <DatePicker selected={startDate} onChange={this.handleChange} />;
+    return <ArWallet wallet="FRmt6llhhy06lubEmrgBej53MVTtPaWtaZk5QeZpyBI" />;
   }
-
-  handleChange = startDate => {
-    this.setState({
-      startDate
-    });
-  };
 }
 
 export default App;
