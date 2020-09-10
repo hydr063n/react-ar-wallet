@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
-    "react-ar-wallet": "file:../..",
+    "react-ar-wallet": "^0.0.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
